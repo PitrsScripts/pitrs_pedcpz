@@ -4,7 +4,9 @@ Fivem - NPC Interaction cpz ESX/QB
 
 # Features
 - 0.00ms
-
+  
+# Preview
+https://www.youtube.com/watch?v=mfHInjN1F7o
 
 # Dependency
 - ESX/QB
